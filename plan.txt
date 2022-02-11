@@ -1,0 +1,9 @@
+00001|Afonso Ferreira dos Santos|75955774862|Rua Napoleao Bonaparte|BA
+00002|teste teste youtube|75988424211|Rua São Miguel|MA
+00003|klkbahiua|75999653262|Rua Lomanto Júnior|BA
+00004|Kaique|75987564895|Rua dos testes Silveiras|AM
+00005|José Fidelix|75988863574|Apto 107|PI
+00006|Afonso Ferreira dos Santos|75999754683|Casa número dos teste|PA
+00007|Afonso Ferreira dos Santos|75988576492|Rua teste 330|AP
+00008|Pedro de Alcantara Fransico Antônio João Carlos Xavier de Paula|75964578133|Rua Sebastião|SP
+00009|Sopa de Macaco|75999765311|Rua Xico Xavier|RJ
